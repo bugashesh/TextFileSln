@@ -1,0 +1,79 @@
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.exe.config
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.exe
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.pdb
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileLib.dll
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileLib.pdb
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csprojAssemblyReference.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.MainForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.Properties.Resources.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.SearchWordsDialog.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.GenerateResource.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.CopyComplete
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.exe
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.pdb
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.Reference.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.exe.config
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.exe
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.pdb
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileLib.dll
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileLib.pdb
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.MainForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.Properties.Resources.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.Reference.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.SearchWordsDialog.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.GenerateResource.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.CopyComplete
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.exe
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.pdb
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.WordStatsForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.exe.config
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.exe
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.pdb
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileLib.dll
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileLib.pdb
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.MainForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.Properties.Resources.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.Reference.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.SearchWordsDialog.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.WordStatsForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.GenerateResource.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.CopyComplete
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.exe
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.pdb
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.exe.config
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.exe
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.pdb
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileLib.dll
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileLib.pdb
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csprojAssemblyReference.cache
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.MainForm.resources
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.Properties.Resources.resources
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.Reference.resources
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.SearchWordsDialog.resources
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.WordStatsForm.resources
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.GenerateResource.cache
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.CoreCompileInputs.cache
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.CopyComplete
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.exe
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.pdb
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.exe.config
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.exe
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileSln.UI.pdb
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileLib.dll
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\bin\Debug\TextFileLib.pdb
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.MainForm.resources
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.Properties.Resources.resources
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.Reference.resources
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.SearchWordsDialog.resources
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.WordStatsForm.resources
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.GenerateResource.cache
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.CoreCompileInputs.cache
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csproj.CopyComplete
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.exe
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.pdb
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileSln.UI\obj\Debug\TextFileSln.UI.csprojAssemblyReference.cache

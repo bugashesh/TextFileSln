@@ -1,0 +1,24 @@
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileLib\bin\Debug\TextFileLib.dll
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileLib\bin\Debug\TextFileLib.pdb
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.csprojAssemblyReference.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.dll
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.pdb
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\bin\Debug\TextFileLib.dll
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\bin\Debug\TextFileLib.pdb
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.dll
+C:\Users\valer\OneDrive\Рабочий стол\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.pdb
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\bin\Debug\TextFileLib.dll
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\bin\Debug\TextFileLib.pdb
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.csprojAssemblyReference.cache
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.csproj.CoreCompileInputs.cache
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.dll
+E:\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.pdb
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\bin\Debug\TextFileLib.dll
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\bin\Debug\TextFileLib.pdb
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.csprojAssemblyReference.cache
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.csproj.CoreCompileInputs.cache
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.dll
+E:\3 курс\Курсовые работы\Курсовая работа МДК 01 01\Программы\TextFileSlnFull\TextFileSln\TextFileSln\TextFileLib\obj\Debug\TextFileLib.pdb
